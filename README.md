@@ -1,2 +1,2 @@
-# JingyiLucky.github.io
-这是我的简历主页
+# HomePage
+[Wang Ning's HomePage](https://deepbrainme.github.io/)
